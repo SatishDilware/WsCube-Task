@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830899715763",
+    "project_id": "ws-cube-test",
+    "storage_bucket": "ws-cube-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830899715763:android:1505e11886fba0e8a47ac6",
+        "android_client_info": {
+          "package_name": "com.example.api_machine_test_wscube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYV2CF3nLb4S8H_0FewsfQkcuq-Qw1uOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
